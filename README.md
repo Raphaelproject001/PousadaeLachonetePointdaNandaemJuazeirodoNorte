@@ -25,7 +25,9 @@
 
         <section class="contact">
             <h2>Contato</h2>
-            <p>Telefone: (xx) xxxx-xxxx</p>
+            <p>Screenshot_20240730-113721~2.png</p>
+            <p>Screenshot_20240730-113852~4.png</p>
+            <p>Telefone: (88) 98854-0556</p>
             <p>Email: contato@pousadapointdananda.com.br</p>
             <p>Endereço: Praça Padre Cícero, Juazeiro do Norte - CE, Brasil</p>
         </section>
