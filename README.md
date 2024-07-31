@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -34,7 +33,5 @@
     <footer>
         <p>&copy; 2024 Point da Nanda. Todos os direitos reservados.</p>
     </footer>
-    <script src="js/scripts.js"></script>
 </body>
 </html>
-<!DOCTYPE html>
