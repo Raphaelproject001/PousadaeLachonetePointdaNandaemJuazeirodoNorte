@@ -2,35 +2,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Point da Nanda - Página Inicial</title>
-    <link rel="stylesheet" href="css/styles.css">
+    <title>Pousada Point da Nanda</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <nav>
-            <ul>
-                <li><a href="index.html">Início</a></li>
-                <li><a href="sobre.html">Sobre Nós</a></li>
-                <li><a href="pousada.html">Pousada</a></li>
-                <li><a href="lanchonete.html">Lanchonete</a></li>
-                <li><a href="galeria.html">Galeria</a></li>
-                <li><a href="reservas.html">Reservas</a></li>
-                <li><a href="contato.html">Contato</a></li>
-                <li><a href="blog.html">Blog</a></li>
-                <li><a href="promocao.html">Promoções</a></li>
-                <li><a href="faqs.html">FAQs</a></li>
-                <li><a href="eventos.html">Eventos</a></li>
-                <li><a href="galeria-eventos.html">Galeria de Eventos</a></li>
-                <li><a href="login.html">Área do Cliente</a></li>
-            </ul>
-        </nav>
+        <h1>Pousada Point da Nanda</h1>
+        <p>Em Frente à Praça Padre Cícero, Juazeiro do Norte, Ceará - BR</p>
     </header>
+
     <main>
-        <h1>Bem-vindo ao Point da Nanda</h1>
-        <p>Seu lugar ideal para relaxar e desfrutar de boas refeições.</p>
+        <section class="welcome">
+            <h2>Bem-vindo!</h2>
+            <p>Seja bem-vindo à Pousada Point da Nanda, o seu destino perfeito para uma estadia confortável e agradável em Juazeiro do Norte.</p>
+        </section>
+
+        <section class="about">
+            <h2>Sobre a Pousada</h2>
+            <p>A Pousada Point da Nanda oferece quartos aconchegantes, uma localização central e um ambiente acolhedor. Nossa equipe está dedicada a proporcionar uma experiência memorável para todos os nossos hóspedes.</p>
+        </section>
+
+        <section class="contact">
+            <h2>Contato</h2>
+            <p>Telefone: (xx) xxxx-xxxx</p>
+            <p>Email: contato@pousadapointdananda.com.br</p>
+            <p>Endereço: Praça Padre Cícero, Juazeiro do Norte - CE, Brasil</p>
+        </section>
     </main>
+
     <footer>
-        <p>&copy; 2024 Point da Nanda. Todos os direitos reservados.</p>
+        <p>&copy; 2024 Pousada Point da Nanda. Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>
