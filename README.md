@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pousada Point da Nanda</title>
+    <title>Pousada e Lanchonete Point da Nanda</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -15,7 +15,7 @@
     <main>
         <section class="welcome">
             <h2>Bem-vindo!</h2>
-            <p>Seja bem-vindo à Pousada Point da Nanda, o seu destino perfeito para uma estadia confortável e agradável em Juazeiro do Norte.</p>
+            <p>Seja bem-vindo à Pousada e Lanchonete Point da Nanda, o seu destino perfeito para uma estadia confortável e agradável em Juazeiro do Norte.</p>
         </section>
 
         <section class="about">
