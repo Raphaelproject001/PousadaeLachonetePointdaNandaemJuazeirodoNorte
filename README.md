@@ -35,7 +35,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2024 Pousada Point da Nanda. Todos os direitos reservados.</p>
+        <p>&copy; 2024 Pousada e Lanchonete Point da Nanda. Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>
