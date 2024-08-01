@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Pousada Point da Nanda</h1>
+        <h1>Pousada e Lanchonete Point da Nanda</h1>
         <p>Em Frente à Praça Padre Cícero, Juazeiro do Norte, Ceará - BR</p>
     </header>
 
@@ -20,13 +20,14 @@
 
         <section class="about">
             <h2>Sobre a Pousada</h2>
-            <p>A Pousada Point da Nanda oferece quartos aconchegantes, uma localização central e um ambiente acolhedor. Nossa equipe está dedicada a proporcionar uma experiência memorável para todos os nossos hóspedes.</p>
+            <p>A Pousada e Lanchonete Point da Nanda oferece quartos aconchegantes, uma localização central e um ambiente acolhedor. Nossa equipe está dedicada a proporcionar uma experiência memorável para todos os nossos hóspedes.</p>
         </section>
 
         <section class="contact">
             <h2>Contato</h2>
-            <p>Screenshot_20240730-113721~2.png</p>
-            <p>Screenshot_20240730-113852~4.png</p>
+            <p>Não perca tempo,quer visitar Juazeiro do Norte e Região, você veio a lugar certo, Point da Nanda</p>
+            <p>Fazemos um atendimento especial para você</p>
+            <p>Temos quartos amplos para nossos hospedes</p>
             <p>Telefone: (88) 98854-0556</p>
             <p>Email: contato@pousadapointdananda.com.br</p>
             <p>Endereço: Praça Padre Cícero, Juazeiro do Norte - CE, Brasil</p>
